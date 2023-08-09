@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[GIT BLOG](https://sangwoong12.github.io/)
+
 <!--
 **sangwoong12/sangwoong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
