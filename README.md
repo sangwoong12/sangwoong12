@@ -5,14 +5,15 @@
 ---
 ### Technologies & Tools
 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)
-![JPA](https://img.icons8.com/color/48/000000/database.png)
-![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
-![MyBatis](https://img.icons8.com/color/48/000000/database.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript-logo-1.png)
+![Java](https://raw.githubusercontent.com/sangwoong12/icons/main/java.png)
+![Spring](https://raw.githubusercontent.com/sangwoong12/icons/main/spring.png)
+![JPA](https://raw.githubusercontent.com/sangwoong12/icons/main/jpa.png)
+![Spring Boot](https://raw.githubusercontent.com/sangwoong12/icons/main/spring-boot.png)
+![MyBatis](https://raw.githubusercontent.com/sangwoong12/icons/main/mybatis.png)
+![HTML5](https://raw.githubusercontent.com/sangwoong12/icons/main/html5.png)
+![CSS](https://raw.githubusercontent.com/sangwoong12/icons/main/css.png)
+![JavaScript](https://raw.githubusercontent.com/sangwoong12/icons/main/javascript.png)
+
 ---
 
 <div>
